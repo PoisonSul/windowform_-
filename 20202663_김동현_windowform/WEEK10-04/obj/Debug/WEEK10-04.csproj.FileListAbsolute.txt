@@ -1,0 +1,10 @@
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\bin\Debug\WEEK10-04.exe.config
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\bin\Debug\WEEK10-04.exe
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\bin\Debug\WEEK10-04.pdb
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10-04.csproj.AssemblyReference.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10_04.Form1.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10_04.Properties.Resources.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10-04.csproj.GenerateResource.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10-04.csproj.CoreCompileInputs.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10-04.exe
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK10-04\obj\Debug\WEEK10-04.pdb

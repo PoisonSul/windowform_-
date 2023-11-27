@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\bin\Debug\WEEK04-02.exe.config
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\bin\Debug\WEEK04-02.exe
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\bin\Debug\WEEK04-02.pdb
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04-02.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04_02.Form1.resources
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04_02.Properties.Resources.resources
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04-02.csproj.GenerateResource.cache
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04-02.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04-02.exe
+C:\Users\user\source\repos\20202663_김동현\WEEK04-02\obj\Debug\WEEK04-02.pdb

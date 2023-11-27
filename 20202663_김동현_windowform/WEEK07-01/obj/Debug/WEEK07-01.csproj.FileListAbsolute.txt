@@ -1,0 +1,12 @@
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\bin\Debug\WEEK07-01.exe.config
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\bin\Debug\WEEK07-01.exe
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\bin\Debug\WEEK07-01.pdb
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07-01.csproj.AssemblyReference.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07_01.Form1.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07_01.Form2.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07_01.Properties.Resources.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07-01.csproj.GenerateResource.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07-01.csproj.CoreCompileInputs.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07-01.exe
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK07-01\obj\Debug\WEEK07-01.pdb

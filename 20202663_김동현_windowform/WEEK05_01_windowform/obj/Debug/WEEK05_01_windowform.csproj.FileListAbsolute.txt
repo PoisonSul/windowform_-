@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\bin\Debug\WEEK05_01_windowform.exe.config
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\bin\Debug\WEEK05_01_windowform.exe
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\bin\Debug\WEEK05_01_windowform.pdb
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.Form1.resources
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.Form2.resources
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.Properties.Resources.resources
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.GenerateResource.cache
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.exe
+C:\Users\user\Desktop\20222244 남성은\윈프\WEEK05_01_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.pdb
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\bin\Debug\WEEK05_01_windowform.exe.config
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\bin\Debug\WEEK05_01_windowform.exe
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\bin\Debug\WEEK05_01_windowform.pdb
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.AssemblyReference.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.SuggestedBindingRedirects.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.Form1.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.Form2.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.Properties.Resources.resources
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.GenerateResource.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.csproj.CoreCompileInputs.cache
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.exe
+C:\Users\김동현\source\repos\20202663_김동현_windowform\WEEK05_01_windowform\obj\Debug\WEEK05_01_windowform.pdb
